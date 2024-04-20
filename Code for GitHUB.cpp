@@ -6,8 +6,8 @@ using namespace std;
 int main() 
 {
     string name;
-    cout << "Введите ваше имя: ";
+    cout << "Имя ожайлуста: ";
     cin >> name;
-    cout << "Привет, " << name << "!" << endl;
+    cout << "Приветствую, " << name << endl;
     return 0;
 }
